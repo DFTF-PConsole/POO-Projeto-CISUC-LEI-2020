@@ -1,0 +1,16 @@
+Jorge Henriques		jh@dei.uc.pt		AC	MembroEfetivo	1	214748364
+Penousal Machado	machado@dei.uc.pt	CMS	MembroEfetivo	2	239790010
+Nuno Lourenço		naml@dei.uc.pt		ECOS	MembroEfetivo	3	239790000
+Anabela Simões		abs@dei.uc.pt		ECOS	MembroEfetivo	4	239790001
+Sara Silva		sara@fc.ul.pt		ECOS	MembroEfetivo	5	239790002
+Licínio Roque		lir@dei.uc.pt		IS	MembroEfetivo	6	239701000
+João Barata		barata@dei.uc.pt	IS	MembroEfetivo	7	239701001
+Paulo Simões		psimoes@dei.uc.pt	LCT	MembroEfetivo	8	239720000
+Vasco Pereira		vasco@dei.uc.pt		LCT	MembroEfetivo	9	239720001
+Henrique Madeira	henrique@dei.uc.pt	SSE	MembroEfetivo	10	239730000
+Filipe Araujo		filipius@uc.pt		SSE	MembroEfetivo	11	239730001
+Adriana Leal		aleal@dei.uc.pt		AC	Estudante	lookAfterRisk - Dynamic risk assessment using home-mobile technologies for the management of myocardial infarction patients	23 12 2025	Jorge Henriques
+Diogo Pessoa		dpessoa@dei.uc.pt	AC	Estudante	WELMO: Wearable Electronics for Effective Lung Monitoring									04 07 2021	Jorge Henriques
+Ana Rodrigues		anatr@dei.uc.pt		CMS	Estudante	ConCreTe - Concept Creation Technology												25 05 2022	Penousal Machado
+Joaquim Carvalho	joaquim@dei.uc.pt	ECOS	Estudante	CLIOHRES-TWG 3 - Religious and Philosophical Concepts										01 09 2023	Anabela Simões
+André Gomes		asng@dei.uc.pt		LCT	Estudante	ICT FP7 GINSENG - Performance Control in Wireless Sensor Networks								21 02 2021	Paulo Simões

@@ -1,0 +1,6 @@
+Adaptive Computation			AC	Jorge Henriques		Adriana Leal		Diogo Pessoa
+Cognitive and Media Systems		CMS	Penousal Machado	Ana Rodrigues
+Evolutionary and Complex Systems	ECOS	Nuno Lourenço		Anabela Simões		Sara Silva		Joaquim Carvalho
+Information Systems			IS	Licínio Roque		João Barata
+Communications and Telematics		LCT	Paulo Simões		André Gomes		Vasco Pereira
+Software and Systems Engineering	SSE	Henrique Madeira	Filipe Araujo

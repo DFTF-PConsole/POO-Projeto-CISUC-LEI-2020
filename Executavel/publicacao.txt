@@ -1,0 +1,308 @@
+Filipe Araujo	Henrique Madeira
+Forecasting Ozone and Nitrogen Oxides for Air Quality Monitoring
+Monitoring	Quality		Air
+2020
+1000
+escrever aqui um resumo
+ArtigoConferencia
+Portuguese Conference on Pattern Recognition
+05 05 2020
+Portugal
+
+
+Filipe Araujo
+Towards Occupation Inference in Non-instrumented Services
+Inference
+2019
+2000
+Measuring the capacity and modeling the response to load of a real distributed system and its components requires painstaking instrumentation. Even though it greatly improves observability, instrumentation may not be desirable, due to cost, or possible due to legacy constraints.
+ArtigoConferencia
+The 18th IEEE International Symposium on Network Computing and Applications
+20 11 2019
+Japão
+
+
+Adriana Leal
+Preictal Time Assessment using Heart Rate Variability Features in Drug-resistant Epilepsy Patients
+Epilepsy
+2019
+2500
+Isto e um resumo 2
+ArtigoConferencia
+41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+12 03 2019
+Online
+
+
+André Gomes	Paulo Simões	Vasco Pereira
+Enhanced Caching Strategies At the Edge of LTE Mobile Networks
+LTE
+2016
+700
+Isto e um resumo 11
+ArtigoConferencia
+IFIP Networking 2016 Conference
+30 06 2016
+Alemanha
+
+
+Nuno Lourenço
+Evolution of Scikit-Learn Pipelines with Dynamic Structured Grammatical Evolution
+Pipelines	Grammatical
+2020
+350
+Isto e um resumo 19
+ArtigoConferencia
+EvoAPPS2020
+20 04 2020
+Reino Unido
+
+
+Joaquim Carvalho
+História da Misericórdia de Soure
+Soure	História
+2006
+15700
+Isto e um resumo 7
+Livro
+Editora z
+444555666
+
+
+Joaquim Carvalho
+Religion and Power in Europe: Conflict and Convergence
+Religion	Europe	Power
+2007
+9500
+Isto e um resumo 8
+Livro
+Editora x
+231321123
+
+
+André Gomes
+Wireless Public Safety Networks
+Wireless	Safety	Public
+2017
+3000
+Isto e um resumo 10
+Livro
+ISTE Press - Elsevier
+987456321
+
+
+Anabela Simões
+Inteligência Artificial: fundamentos e aplicações
+Inteligência	Artificial
+2008
+35900
+Isto e um resumo 21
+Livro
+FCA
+321456987
+
+
+Sara Silva
+Applications of Evolutionary Computation: EvoApplications
+Computation	Applications
+2012
+250
+Isto e um Resumo 26
+Livro
+Editora zzz
+143258769
+
+
+Jorge Henriques
+Web Tool to Improve the Event Risk Assessment in Cardiovascular Disease Patients, in Online Experimentation
+Web	Tool
+2015
+4000
+Isto é um resumo 25
+CapituloLivro
+Editora x
+998886780
+Ch.25 Emerging Technologies and IoT
+455
+472
+
+
+Diogo Pessoa	Adriana Leal	Jorge Henriques
+IFMBE Proceedings
+Ultrasonic	Rodents
+2019
+5500
+Isto e um resumo 3
+CapituloLivro
+Editora y
+111222333
+Automatic Segmentation of Ultrasonic Vocalizations in Rodents
+37
+46
+
+
+Penousal Machado
+Data Analytics for Smart Cities Analytics
+Cities	Smart	Data	Metro	Analytics
+2018
+2100
+Isto e um resumo 15
+CapituloLivro
+Editora y
+907060321
+Smart City Portrayal: Dynamic Visualization Applied to the Analysis of Underground Metro
+91
+110
+
+
+Penousal Machado	Adriana Leal	Ana Rodrigues
+Computational Creativity - The Philosophy and Engineering of Autonomously Creative Systems
+Philosophy	Engineering	Innovation 
+2019
+13700
+Isto e um resumo 16
+CapituloLivro
+Editora z
+912837465
+Breaking the Mould: An Evolutionary Quest for Innovation Through Style Change
+359
+405
+
+
+Sara Silva
+Genetic Programming Theory and Practice IX
+Genetic
+2011
+57000
+Isto e um resumo 25
+CapituloLivro
+Editora w
+121233986
+The Importance of Being Flat – Studying the Program Length Distributions of Operator Equalisation
+211
+233
+
+
+Jorge Henriques
+Proc. of the 13th APCA - International Conference on Automatic Control and Soft-Computing
+Automatic	Control		Soft-Computing
+2018
+500
+resumo
+LivroArtigosConferencia
+CONTROLO
+777666555
+International Conference on Automatic Control and Soft-Computing
+5
+
+
+Sara Silva
+Genetic Programming, 13th European Conference
+Conference	Genetic	Programming	European
+2010
+2000
+Isto e um resumo 24
+LivroArtigosConferencia
+Editora xyz
+900321654
+EuroGP
+48
+
+
+Nuno Lourenço	Anabela Simões	Joaquim Carvalho
+EuroGP: European Conference on Genetic Programming 2019
+Conference	Genetic	Programming	European
+2019
+3000
+Isto e um resumo 20
+LivroArtigosConferencia
+Editora xpto
+654783921
+European Conference on Genetic Programming
+31
+
+
+Licínio Roque	Henrique Madeira
+Proceedings of the 6th Audio Mostly Conference: a Conference on Interaction with Sound
+Audio	Conference
+2011
+1000
+Isto e um resumo 27
+LivroArtigosConferencia
+Editora k
+229598761
+Audio Mostly Conference
+5
+
+
+Licínio Roque	João Barata	Paulo Simões	Henrique Madeira
+Actas da 4ª Conferência Nacional sobre Segurança Informática nas Organizações
+Conferência	Segurança	Informática
+2008
+18300
+Isto e um resumo 30
+LivroArtigosConferencia
+Editora yyy
+501089001
+Conferência Nacional sobre Segurança Informática nas Organizações
+83
+
+
+Filipe Araujo
+Reductions and Abstractions for Formal Verification of Distributed Round-based Algorithms
+Model checking		Distributed algorithms		Formal verification
+2021
+3000
+Model checking has advanced over the last decades to become an effective formal technique for verifying distributed and concurrent systems.
+ArtigoRevista
+Springer Software Quality Journal
+01 01 2021
+351
+
+
+Diogo Pessoa
+A Wearable Stethoscope for Long-Term Ambulatory Respiratory Health Monitoring
+Health	Stethoscope	Monitoring
+2020
+6000
+Isto e um resumo 4
+ArtigoRevista
+Sensors
+06 08 2020
+18
+
+
+André Gomes
+Redes de Sensores sem Fios com Desempenho Controlado – Projecto FP7 GINSENG
+Sensores	Desempenho	Redes
+2011
+1700
+Isto e um resumo 12
+ArtigoRevista
+Revista da Ordem dos Engenheiros
+03 02 2011
+122
+
+
+Anabela Simões	Sara Silva
+Prediction in evolutionary algorithms for dynamic environments
+prediction	algorithms	dynamic	environments
+2014
+2700
+Isto e um resumo 22
+ArtigoRevista
+Soft Computing
+01 12 2014
+8
+
+
+Sara Silva
+Bloat Free Genetic Programming: Application to Human Oral Bioavailability Prediction
+Bioavailability	Prediction	Programming
+2012
+5000
+Isto e um resumo 23
+ArtigoRevista
+International Journal of Data Mining and Bioinformatics
+30 01 2012
+6
