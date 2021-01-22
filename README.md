@@ -1,2 +1,12 @@
-# POO-Projeto-CISUC-LEI
-FCTUC - DEI/LEI - POAO - 2020/2021 - Projeto / Trabalho Final (PUB) - Licenciatura em Engenharia Informatica - Programacao Orientada aos Objetos
+# POO Projeto CISUC LEI 2020
+
+PUBLIC
+
+FCTUC DEI/LEI 2020/2021 - Licenciatura em Engenharia Informatica
+
+POO - Programacao Orientada aos Objetos
+
+Projeto: "Gestor de publicacoes do CISUC"
+
+
+Autor: Dário Félix / DFTF@PConsole# (DFTF-PConsole)
