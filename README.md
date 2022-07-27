@@ -1,12 +1,17 @@
 # POO Projeto CISUC LEI 2020
 
-PUBLIC
+<br />
 
-FCTUC DEI/LEI 2020/2021 - Licenciatura em Engenharia Informatica
+## Âmbito
+FCTUC DEI/LEI 2020/2021 - Licenciatura em Engenharia Informática	<br />
+POO - Programacao Orientada aos Objetos <br />
 
-POO - Programacao Orientada aos Objetos
+<br />
 
-Projeto: "Gestor de publicacoes do CISUC"
+## Projeto: "Gestor de publicacoes do CISUC"
 
 
-Autor: Dário Félix / DFTF@PConsole# (DFTF-PConsole)
+<br />
+
+## Autor: 
+* **Dario Felix / DFTF@PConsole#**, n. 2018275530, dario@student.dei.uc.pt, GitHub: [@DFTF-PConsole](https://github.com/DFTF-PConsole)
